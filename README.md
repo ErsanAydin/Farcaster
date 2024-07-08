@@ -37,7 +37,7 @@
 
 > Kuruluma geçmeden önce 3 şeye ihtiyacımız var.
 
-> İlk olarak bir [warpcaster](https://warpcast.com/~/invite-page/413836?id=e1d9126d) hesabına.
+> İlk olarak bir [warpcaster](https://warpcast.com/~/invite-page/331744?id=a4ca0ac2) hesabına.
 
 > Alchemy veya Infura'dan Ethereum ve Optimism mainnet RPC'si.
 
